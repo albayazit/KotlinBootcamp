@@ -1,5 +1,7 @@
 import kotlin.system.exitProcess
 
+// Task 6. Sorting a collection by selection
+
 fun main() {
     val listOfNumbers = getInput()
     selectionSort(listOfNumbers)
